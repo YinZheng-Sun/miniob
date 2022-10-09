@@ -1,0 +1,408 @@
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: init.cpp init 230]>>Output configuration 
+Begin dump configuration
+[]
+
+Finish dump configuration 
+
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:128, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:256, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:384, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:512, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:640, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:768, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:896, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1024, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1152, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1280, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1408, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1536, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1664, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1792, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1920, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2048, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2176, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2304, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2432, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2560, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2688, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2816, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2944, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3072, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3200, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3328, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3456, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3584, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3712, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3840, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3968, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4096, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4224, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4352, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4480, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4608, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4736, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4864, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4992, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5120, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5248, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5376, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5504, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5632, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5760, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5888, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6016, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6144, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6272, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6400, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h init 241]>>Extend one pool, this->size:6400, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: init.cpp init_seda 63]>>(Re)Starting State: Pid: 21500 Time: Sat Oct  8 18:01:07 2022
+
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: init.cpp init_seda 64]>>The process Name is observer
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: seda_config.cpp init_event_history 209]>>Successfully init_event_history, EventHistory:0, MaxEventHops:100
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  ERROR: seda_config.cpp init_thread_pool 225]>>Configuration hasn't set ThreadPools
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  ERROR: seda_config.cpp instantiate 421]>>Failed to init thread pool
+
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  ERROR: init.cpp init_seda 69]>>SedaConfig: unable to initialize seda stages
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  ERROR: init.cpp init 244]>>Failed to init seda configuration!
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: mem_pool.h cleanup 270]>>Successfully do cleanup, this->name:BufPool.
+[2022-10-8 18:1:7 pid:21500 tid:7ffff786a740  INFO: init.cpp cleanup_util 274]>>Shutdown Cleanly!
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: init.cpp init 230]>>Output configuration 
+Begin dump configuration
+[]
+
+Finish dump configuration 
+
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:128, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:256, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:384, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:512, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:640, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:768, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:896, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1024, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1152, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1280, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1408, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1536, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1664, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1792, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1920, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2048, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2176, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2304, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2432, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2560, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2688, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2816, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2944, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3072, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3200, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3328, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3456, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3584, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3712, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3840, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3968, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4096, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4224, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4352, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4480, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4608, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4736, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4864, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4992, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5120, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5248, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5376, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5504, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5632, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5760, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5888, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6016, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6144, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6272, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6400, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h init 241]>>Extend one pool, this->size:6400, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: init.cpp init_seda 63]>>(Re)Starting State: Pid: 21964 Time: Sat Oct  8 18:04:58 2022
+
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: init.cpp init_seda 64]>>The process Name is observer
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: seda_config.cpp init_event_history 209]>>Successfully init_event_history, EventHistory:0, MaxEventHops:100
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  ERROR: seda_config.cpp init_thread_pool 225]>>Configuration hasn't set ThreadPools
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  ERROR: seda_config.cpp instantiate 421]>>Failed to init thread pool
+
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  ERROR: init.cpp init_seda 69]>>SedaConfig: unable to initialize seda stages
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  ERROR: init.cpp init 244]>>Failed to init seda configuration!
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: mem_pool.h cleanup 270]>>Successfully do cleanup, this->name:BufPool.
+[2022-10-8 18:4:58 pid:21964 tid:7ffff786a740  INFO: init.cpp cleanup_util 274]>>Shutdown Cleanly!
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: init.cpp init 230]>>Output configuration 
+Begin dump configuration
+[]
+
+Finish dump configuration 
+
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:128, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:256, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:384, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:512, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:640, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:768, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:896, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1024, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1152, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1280, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1408, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1536, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1664, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1792, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1920, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2048, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2176, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2304, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2432, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2560, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2688, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2816, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2944, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3072, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3200, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3328, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3456, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3584, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3712, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3840, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3968, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4096, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4224, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4352, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4480, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4608, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4736, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4864, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4992, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5120, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5248, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5376, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5504, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5632, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5760, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5888, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6016, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6144, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6272, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6400, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h init 241]>>Extend one pool, this->size:6400, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: init.cpp init_seda 63]>>(Re)Starting State: Pid: 22258 Time: Sat Oct  8 18:05:10 2022
+
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: init.cpp init_seda 64]>>The process Name is observer
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: seda_config.cpp init_event_history 209]>>Successfully init_event_history, EventHistory:0, MaxEventHops:100
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  ERROR: seda_config.cpp init_thread_pool 225]>>Configuration hasn't set ThreadPools
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  ERROR: seda_config.cpp instantiate 421]>>Failed to init thread pool
+
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  ERROR: init.cpp init_seda 69]>>SedaConfig: unable to initialize seda stages
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  ERROR: init.cpp init 244]>>Failed to init seda configuration!
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: mem_pool.h cleanup 270]>>Successfully do cleanup, this->name:BufPool.
+[2022-10-8 18:5:10 pid:22258 tid:7ffff786a740  INFO: init.cpp cleanup_util 274]>>Shutdown Cleanly!
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: init.cpp init 230]>>Output configuration 
+Begin dump configuration
+[]
+
+Finish dump configuration 
+
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:128, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:256, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:384, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:512, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:640, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:768, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:896, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1024, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1152, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1280, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1408, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1536, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1664, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1792, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1920, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2048, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2176, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2304, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2432, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2560, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2688, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2816, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2944, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3072, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3200, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3328, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3456, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3584, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3712, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3840, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3968, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4096, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4224, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4352, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4480, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4608, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4736, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4864, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4992, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5120, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5248, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5376, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5504, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5632, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5760, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5888, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6016, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6144, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6272, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6400, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h init 241]>>Extend one pool, this->size:6400, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: init.cpp init_seda 63]>>(Re)Starting State: Pid: 22428 Time: Sat Oct  8 18:05:16 2022
+
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: init.cpp init_seda 64]>>The process Name is observer
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: seda_config.cpp init_event_history 209]>>Successfully init_event_history, EventHistory:0, MaxEventHops:100
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  ERROR: seda_config.cpp init_thread_pool 225]>>Configuration hasn't set ThreadPools
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  ERROR: seda_config.cpp instantiate 421]>>Failed to init thread pool
+
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  ERROR: init.cpp init_seda 69]>>SedaConfig: unable to initialize seda stages
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  ERROR: init.cpp init 244]>>Failed to init seda configuration!
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: mem_pool.h cleanup 270]>>Successfully do cleanup, this->name:BufPool.
+[2022-10-8 18:5:16 pid:22428 tid:7ffff786a740  INFO: init.cpp cleanup_util 274]>>Shutdown Cleanly!
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: init.cpp init 230]>>Output configuration 
+Begin dump configuration
+[]
+
+Finish dump configuration 
+
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:128, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:256, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:384, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:512, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:640, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:768, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:896, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1024, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1152, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1280, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1408, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1536, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1664, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1792, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1920, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2048, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2176, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2304, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2432, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2560, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2688, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2816, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2944, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3072, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3200, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3328, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3456, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3584, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3712, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3840, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3968, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4096, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4224, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4352, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4480, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4608, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4736, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4864, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4992, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5120, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5248, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5376, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5504, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5632, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5760, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5888, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6016, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6144, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6272, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6400, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h init 241]>>Extend one pool, this->size:6400, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: init.cpp init_seda 63]>>(Re)Starting State: Pid: 22710 Time: Sat Oct  8 18:05:33 2022
+
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: init.cpp init_seda 64]>>The process Name is observer
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: seda_config.cpp init_event_history 209]>>Successfully init_event_history, EventHistory:0, MaxEventHops:100
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  ERROR: seda_config.cpp init_thread_pool 225]>>Configuration hasn't set ThreadPools
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  ERROR: seda_config.cpp instantiate 421]>>Failed to init thread pool
+
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  ERROR: init.cpp init_seda 69]>>SedaConfig: unable to initialize seda stages
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  ERROR: init.cpp init 244]>>Failed to init seda configuration!
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: mem_pool.h cleanup 270]>>Successfully do cleanup, this->name:BufPool.
+[2022-10-8 18:5:33 pid:22710 tid:7ffff786a740  INFO: init.cpp cleanup_util 274]>>Shutdown Cleanly!
+[2022-10-8 18:5:44 pid:22889 tid:7ffff786a740  INFO: init.cpp init 230]>>Output configuration 
+Begin dump configuration
+[]
+
+Finish dump configuration 
+
+[2022-10-8 18:5:44 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:128, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:44 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:256, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:44 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:384, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:512, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:640, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:768, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:896, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1024, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1152, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1280, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1408, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1536, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1664, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1792, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:1920, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2048, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2176, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2304, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2432, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2560, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2688, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2816, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:2944, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3072, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3200, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3328, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3456, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3584, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3712, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3840, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:3968, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4096, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4224, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4352, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4480, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4608, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4736, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4864, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:4992, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5120, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5248, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5376, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5504, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5632, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5760, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:5888, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6016, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6144, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6272, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h extend 299]>>Extend one pool, this->size:6400, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h init 241]>>Extend one pool, this->size:6400, item_num_per_pool:128, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: init.cpp init_seda 63]>>(Re)Starting State: Pid: 22889 Time: Sat Oct  8 18:05:45 2022
+
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: init.cpp init_seda 64]>>The process Name is observer
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: seda_config.cpp init_event_history 209]>>Successfully init_event_history, EventHistory:0, MaxEventHops:100
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  ERROR: seda_config.cpp init_thread_pool 225]>>Configuration hasn't set ThreadPools
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  ERROR: seda_config.cpp instantiate 421]>>Failed to init thread pool
+
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  ERROR: init.cpp init_seda 69]>>SedaConfig: unable to initialize seda stages
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  ERROR: init.cpp init 244]>>Failed to init seda configuration!
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: mem_pool.h cleanup 270]>>Successfully do cleanup, this->name:BufPool.
+[2022-10-8 18:5:45 pid:22889 tid:7ffff786a740  INFO: init.cpp cleanup_util 274]>>Shutdown Cleanly!
